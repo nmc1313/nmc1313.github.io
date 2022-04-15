@@ -1,4 +1,8 @@
-
+navbar { 
+    background-color: #71855D;
+    color: white;
+    padding: 10px; 
+}
 
 button {
     border-radius: 12px;
