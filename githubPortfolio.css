@@ -5,6 +5,7 @@ navbar {
 }
 
 button {
+    font-family: 'Akshar', sans-serif;
     border-radius: 12px;
     background-color: #71855D;
     color: black;
