@@ -12,7 +12,7 @@
     border: 2px solid white;
 }
 
-.closerGrid {
+#closerGrid {
     display: grid;
     background-color: black;
     grid-template-columns: 1fr 1fr;
@@ -22,7 +22,7 @@
     border-radius: 10px; 
 }
 
-.cgItem {
+#cgItem {
     background-color: whitesmoke;
     border: 3px solid black;
     padding: 20px; 
