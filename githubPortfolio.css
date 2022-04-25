@@ -12,7 +12,7 @@
     border: 2px solid white;
 }
 
-#closerGrid {
+.closerGrid {
     display: grid;
     background-color: black;
     grid-template-columns: 1fr 1fr;
