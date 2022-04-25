@@ -3,12 +3,9 @@
     padding: 10px; 
 }
 
-#button {
-    font-family: 'Akshar', sans-serif;
-    border-radius: 12px;
+body {
     background-color: #71855D;
-    color: black;
-    border: 2px solid white;
+    font-family: "Akshar";
 }
 
 .closerGrid {
