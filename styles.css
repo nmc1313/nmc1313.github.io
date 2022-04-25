@@ -4,8 +4,8 @@
 }
 
 body {
-    background-color: #71855D;
-    font-family: "Akshar";
+    background-color: #71855D !important; 
+    font-family: "Akshar" !important;
 }
 
 .closerGrid {
