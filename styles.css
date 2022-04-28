@@ -31,6 +31,6 @@ a {
 }
 
 #homepgButton {
-    color: white;
+    color: white !important;
 }
 
